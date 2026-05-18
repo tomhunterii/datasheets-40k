@@ -151,4 +151,4 @@ This unit can be led by the following Characters (mono-Codex SM / Ultramarines):
 - Wahapedia: https://wahapedia.ru/wh40k10ed/factions/space-marines/Intercessor-Squad
 - Munitorum Field Manual v3.9 (Feb 2026), Codex: Space Marines section
 
-<!-- Last verified: 2026-04-21 — source: Wahapedia https://wahapedia.ru/wh40k10ed/factions/space-marines/Intercessor-Squad / MFM v3.9 -->
+<!-- Last verified: 2026-05-18 (live-update smoke test) -->

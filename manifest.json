@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-18T07:22:32Z",
+  "generated": "2026-05-18T08:01:57Z",
   "files": {
     "schema/datasheet.schema.md": "645e906026b0160115bdf5399ca3c0b92f12f4b6171389459190bbf8f9809e72",
     "space-marines/detachments/1st-company-task-force.md": "2be143d8d3936db1c1c59102ee3353be1c64be98cb656aebd26b7f0eaa7c9c51",
@@ -40,7 +40,7 @@
     "space-marines/units/incursor-squad.md": "a82b1c17c1e767aba46ae0820d4c4965e4e68412136742a2c37476088cf19a64",
     "space-marines/units/infernus-squad.md": "4065798d1b40293b1d8817b7d7a5da478fc67c148ec5de101c1adfa167218b64",
     "space-marines/units/infiltrator-squad.md": "7d965eee47db0717676453a3319143011a3180579fbb031dde4419cef309acbf",
-    "space-marines/units/intercessor-squad.md": "cd6aeb6f47ead9a84242c14d3bd7082e85677af655011b8652f698742201152f",
+    "space-marines/units/intercessor-squad.md": "014ce7c26e000ef89656782f41e7194375c70da749cead013ce9db39a68a3283",
     "space-marines/units/iron-priest.md": "13664850bf05e232293bb65355396b56bafc5ea91c245e01ee31d9e7122b0c47",
     "space-marines/units/judiciar.md": "56953bbfbe069d0aea615866394dce181a1cd2bda9234bf7102eea9f2011342a",
     "space-marines/units/kor-sarro-khan.md": "9392bb9eebf13e716a09fb5432793157c65ec313bd9fbce55060c834f5a65aa4",
